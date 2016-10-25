@@ -9,7 +9,7 @@
 img {
     display: block;
     margin: auto;
-    width: 35%;
+    width:40%;
 }
 
 .me a {
@@ -35,11 +35,32 @@ position: relative;
 }
 
 .aboutME{
+    color:black;
+    text-decoration: none;
     font-size: 20px;
     font: bold;
     text-align: left;
+    margin-top:0px;
 }
 
 #aboutmeheader{
     margin-bottom: 0px;
 }
+
+.social{
+    width: 4%;
+    height: 7%;
+    border-radius: 25%;
+  background-color:white;
+  position: fixed;
+  padding: 10px;
+  top: 10px;
+  left: 0;
+  
+}
+
+.twitter {
+   width:80%;
+   
+}
+
